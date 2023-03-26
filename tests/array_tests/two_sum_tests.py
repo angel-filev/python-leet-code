@@ -1,6 +1,7 @@
 import unittest
 
-from arrays.twoSum import TwoSum
+from src.arrays.twoSum import TwoSum
+# from arrays.twoSum import TwoSum
 
 
 class TestTwoSum(unittest.TestCase):

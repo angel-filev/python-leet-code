@@ -1,6 +1,7 @@
 import unittest
 
-from strings.palindrome import Palindrome
+from src.strings.palindrome import Palindrome
+
 
 class TestPalindrome(unittest.TestCase):
     def test_palindrome_true(self):
